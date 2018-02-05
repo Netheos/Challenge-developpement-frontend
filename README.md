@@ -9,7 +9,7 @@ Lors de la planification du lundi matin, le product owner vous a assigné les us
 **User story 1 :**
 > En tant qu'utilisateur ayant les droits "administrateur", je peux m'identifier via une interface de login.
 
-![Interface login](Login.png)
+![Interface login](Login.png | width=600)
 
 **User story 2 :**
 > En tant qu'utilisateur ayant les droits "administrateur", je peux insérer une question / réponse dans la base de connaissances (FAQ) du produit via un formulaire prévu à cet effet. Une question / réponse est définie par :
@@ -17,7 +17,7 @@ Lors de la planification du lundi matin, le product owner vous a assigné les us
 > 0. Le libellé de la réponse ;
 > 0. La liste des tags associés.
 
-![Interface ajout](Ajout.png)
+![Interface ajout](Ajout.png | width=600)
 
 **User story 3 :**
 > En tant qu'utilisateur ayant les droits "administrateur", je peux lister toutes les questions / réponses de la base de connaissances.
@@ -27,12 +27,12 @@ Lors de la planification du lundi matin, le product owner vous a assigné les us
 > 1. La question ;
 > 0. Le ou les tags associés.
 
-![Interface liste](Liste.png)
+![Interface liste](Liste.png | width=600)
 
 **User story 5 :**
 > En tant qu'utilisateur, je peux rechercher la réponse à une question et afficher la liste des résultats correspondants. Note : cette fonctionnalité est accesssible sans avoir à s'identifier.
 
-![Interface recherche](Recherche.png)
+![Interface recherche](Recherche.png | width=600)
 
 Attendus techniques
 -------------------
