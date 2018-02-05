@@ -8,6 +8,7 @@ Lors de la planification du lundi matin, le product owner vous a assigné les us
 
 **User story 1 :**
 > En tant qu'utilisateur ayant les droits "administrateur", je peux m'identifier via une interface de login.
+![Interface login](Login.png)
 
 **User story 2 :**
 > En tant qu'utilisateur ayant les droits "administrateur", je peux insérer une question / réponse dans la base de connaissances (FAQ) du produit via un formulaire prévu à cet effet. Une question / réponse est définie par :
